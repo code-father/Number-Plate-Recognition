@@ -4,7 +4,3 @@ The way I approached this problem is first the number plate is detected in the i
 After that character recognition is done by using Pytesseract which is an OCR tool for python. 
 
 Requirements:
-Python 
-Pillow
-OpenCV
-Pytesseract
